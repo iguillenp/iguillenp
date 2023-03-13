@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- [Spanish didactic resources](https://github.com/Ibaii99/didactic)
+- [Spanish didactic resources](https://github.com/Ibaii99/Recursos-Didacticos)
 
-- [Recursos didácticos en español](https://github.com/Ibaii99/didactic)
+- [Recursos didácticos en español](https://github.com/Ibaii99/Recursos-Didacticos)
 
 <!--
 **Ibaii99/Ibaii99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
