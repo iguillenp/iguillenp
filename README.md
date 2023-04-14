@@ -1,9 +1,8 @@
-# Hi there 👋
-
+# ¡Hola! 👋
 
 - [Recursos didácticos en español](https://github.com/Ibaii99/Recursos-Didacticos)
 
-## Final projects
+## Proyectos Finales
 
 - [Proyecto Fin de Grado](https://github.com/Ibaii99/PFG_MEMORIA)
 - [Trabajo Fin de Máster](https://oa.upm.es/72004/1/TFM_IBAI_GUILLEN_PACHO.pdf)
