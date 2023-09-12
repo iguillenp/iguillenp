@@ -1,4 +1,4 @@
-# ¡Hola! 👋
+# Kaixo! 👋
   <a
   id="cy-effective-orcid-url"
   class="underline"
