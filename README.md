@@ -1,10 +1,12 @@
 # Kaixo! 👋
 
 
-> [!TIP] Spanish
+> [!TIP]
+> Spanish
 > My nombre es Ibai Guillén Pacho y soy estudiante de Doctorado en Inteligencia Artificial en la Universidad Politécnica de Madrid. Mi thesis está centrada en la evolución temporal de contenidos y está financiada por las ayudas para la contratación de personal investigador predoctoral en formación de la Consejería de Educación, Ciencia y Universidades de la Comunidad de Madrid, España.
 
-> [!TIP] English
+> [!TIP]
+> English
 > My name is Ibai Guillén Pacho and I am a PhD student in Artificial Intelligence at the Universidad Politécnica de Madrid. My thesis is focused on the content temporal evolution and it is funded by a Predoctoral Grant of the Consejería de Educación, Ciencia y Universidades de la Comunidad de Madrid, Spain.
 
 ## Contact me | Contáctame
