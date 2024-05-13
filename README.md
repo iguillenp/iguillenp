@@ -7,7 +7,7 @@
 > [!TIP]
 > My name is Ibai Guillén Pacho and I am a PhD student in Artificial Intelligence at the Universidad Politécnica de Madrid. My thesis is focused on the content temporal evolution and it is funded by a Predoctoral Grant of the Consejería de Educación, Ciencia y Universidades de la Comunidad de Madrid, Spain.
 
-## Contact me | Contáctame
+## Contact me - Contáctame
 - <a  id="cy-effective-orcid-url"
   class="underline"
    href="https://orcid.org/0000-0001-7801-8815"
@@ -26,10 +26,11 @@
       style="width: 1em; margin-inline-start: 0.5em"
       alt="Mail icon"/> [@iguillenp](https://twitter.com/iguillenp)
 
-## Works | Trabajos
+## Works - Trabajos
 
-- [Master's Thesis | Trabajo Fin de Máster](https://oa.upm.es/72004/1/TFM_IBAI_GUILLEN_PACHO.pdf)
-- [Bachelor's Thesis | Proyecto Fin de Grado](https://github.com/Ibaii99/PFG_MEMORIA)
-## Notes | Apuntes
-- [Didactic resources in Spanish | Recursos didácticos en español](https://github.com/Ibaii99/Recursos-Didacticos)
+- [Master's Thesis - Trabajo Fin de Máster](https://oa.upm.es/72004/1/TFM_IBAI_GUILLEN_PACHO.pdf)
+- [Bachelor's Thesis - Proyecto Fin de Grado](https://github.com/Ibaii99/PFG_MEMORIA)
+
+## Notes - Apuntes
+- [Didactic resources in Spanish - Recursos didácticos en español](https://github.com/Ibaii99/Recursos-Didacticos)
 
