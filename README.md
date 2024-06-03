@@ -29,7 +29,7 @@
 ## Works - Trabajos
 
 - [Master's Thesis - Trabajo Fin de Máster](https://oa.upm.es/72004/1/TFM_IBAI_GUILLEN_PACHO.pdf)
-- [Bachelor's Thesis - Proyecto Fin de Grado](https://github.com/Ibaii99/PFG_MEMORIA)
+- [Bachelor's Thesis - Proyecto Fin de Grado](https://dkh.deusto.es/comunidad/explorer/recurso/estudio-sobre-la-privacidad-en-el-aprendizaje/708a1593-6ba6-4714-a7a5-a9d7e58d05e1)
 
 ## Notes - Apuntes
 - [Didactic resources in Spanish - Recursos didácticos en español](https://github.com/Ibaii99/Recursos-Didacticos)
